@@ -50,3 +50,5 @@ E depois:
   # Rode a aplicação
   $ yarn start ou npx nodemon index.js
 ```
+
+https://user-images.githubusercontent.com/86244416/152055554-cf17545b-30a0-496e-88f9-2cb2027a2a36.mp4
